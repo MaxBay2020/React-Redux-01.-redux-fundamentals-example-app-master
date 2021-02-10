@@ -1,11 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3781754-acd1-471c-8790-3ce1e701259e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/filters/filtersSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/todos/todosSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._prettier.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._public" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/._App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/._api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/._exampleAddons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/._index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/._index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/._setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/._client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/._server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exampleAddons/._enhancers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exampleAddons/._middleware.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oHuIwrlWs1uKviIL6lVnzlOvsy" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3781754-acd1-471c-8790-3ce1e701259e" name="Default Changelist" comment="" />
+      <created>1612955760686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612955760686</updated>
+      <workItem from="1612955763534" duration="512000" />
+      <workItem from="1612956413946" duration="6722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
