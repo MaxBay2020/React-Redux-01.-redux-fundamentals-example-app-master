@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3781754-acd1-471c-8790-3ce1e701259e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/filters/filtersSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/todos/todosSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/._.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._prettier.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._public" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._src" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._api" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._exampleAddons" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/._setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/._client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/._server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exampleAddons/._enhancers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exampleAddons/._middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exampleAddons/middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/exampleAddons/middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/todos/todosSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/todos/todosSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612955760686</updated>
       <workItem from="1612955763534" duration="512000" />
-      <workItem from="1612956413946" duration="6722000" />
+      <workItem from="1612956413946" duration="16755000" />
     </task>
     <servers />
   </component>
