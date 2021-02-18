@@ -6,7 +6,7 @@ import { ReactComponent as TimesSolid } from './times-solid.svg'
 import { availableColors, capitalize } from '../filters/colors'
 
 const selectTodoById = (state, todoId) => {
-    return state.todos.find((todo) => todo.id === todoId)
+    return Object.values(state.todos.entities).find((todo) => todo.id === todoId)
 }
 
 // Destructure `props.id`, since we just need the ID value
